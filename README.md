@@ -1,6 +1,6 @@
 Compiled by nyghts
 
-Population Source: Kalaallit Nunaanni Kisitsisit 2024
+Population Source: Kalaallit Nunaanni Kisitsisit 2024 (2024)
 
 [Location of Data](https://github.com/nyghts7/greenland/blob/main/Kalaallit%20Nunaanni%20kisitsisit%202024.pdf) (See page 5)
 
